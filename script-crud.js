@@ -64,7 +64,7 @@ function clearTasks() {
 }
 
 function deleteDoneTasks() {
-  tarefas = [];
+  tasks = [];
   loadTasks();
 }
 
