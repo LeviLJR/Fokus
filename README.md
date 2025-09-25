@@ -1,36 +1,36 @@
 
-<h1 align="center">Fokus - Gerenciador de Tarefas</h1>
+<h1 align="center">Fokus - Pomodoro Task Manager</h1>
 
 <p align="center" style="margin-bottom: 4%">
 </p>
 
 <p align="center">
-  <a href="#about">Sobre</a>   |   
-  <a href="#features">Funcionalidades</a>   |   
-  <a href="#computer-exemple">Exemplo</a>   |   
-  <a href="#memo-license">Licença</a>
+  <a href="#about">About</a>   |   
+  <a href="#features">Features</a>   |   
+  <a href="#computer-exemple">Example</a>   |   
+  <a href="#memo-license">License</a>
 </p>
 
-<h2 id="about">:information_source: Sobre</h2>
+<h2 id="about">:information_source: About</h2>
 
-Bem-vindo ao Fokus, um gerenciador de tarefas simples e interativo desenvolvido durante o curso "JavaScript: Explorando a manipulação de elementos e da localStorage". 
+Welcome to Fokus, a simple and interactive task manager developed during the course "JavaScript: Exploring element manipulation and localStorage."
 
-Fokus permite que você organize suas tarefas, adicionando, editando, visualizando e removendo-as com facilidade. Ele é uma ótima ferramenta para testar e melhorar suas habilidades em JavaScript e manipulação do DOM.
+Fokus allows you to organize your tasks by easily adding, editing, viewing, and removing them. It is a great tool for testing and improving your JavaScript and DOM manipulation skills.
 
-<h2 id="features">:sparkles: Funcionalidades</h2>
+<h2 id="features">:sparkles: Features</h2>
 
-* **Adicionar Tarefas:** Utilize um formulário para criar novas tarefas e adicioná-las à sua lista.
-* **Editar Tarefas:** Modifique a descrição de qualquer tarefa com apenas um clique no botão "Editar".
-* **Visualizar Tarefas:** Organize e visualize todas as suas tarefas em uma lista clara e organizada.
-* **Marcar Tarefas como Completas:** Concluiu uma tarefa? Marque-a como completa para visualizá-la com um novo estilo.
-* **Remover Tarefas:** Exclua tarefas individualmente ou limpe a lista inteira para começar do zero.
+* **Add Tasks:** Use a form to create new tasks and add them to your list.
+* **Edit Tasks:** Modify the description of any task with just one click on the "Edit" button.
+* **View Tasks:** Organize and view all your tasks in a clear and organized list.
+* **Mark Tasks as Complete:** Finished a task? Mark it as complete to view it with a new style.
+* **Remove Tasks:** Delete tasks individually or clear the entire list to start from scratch.
 
-<h2 id="computer-exemple">:desktop_computer: Exemplo</h2>
+<h2 id="computer-exemple">:desktop_computer: Example</h2>
 
-Para ver o projeto em ação, acesse o github -pages
+To see the project in action, visit github-pages
 
-<h2 id="memo-license">:memo: Licença</h2>
+<h2 id="memo-license">:memo: License</h2>
 
-Este projeto está sob a licença MIT. Veja o arquivo para mais informações.
+This project is licensed under the MIT license. See the file for more information.
 
-Feito por Levi Liberman Júnior
+Created by Levi Liberman Júnior
